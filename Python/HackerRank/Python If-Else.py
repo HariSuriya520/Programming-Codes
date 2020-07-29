@@ -1,4 +1,5 @@
-/* Task
+'''
+Task
 Given an integer, n, perform the following conditional actions:
 
 If n is odd, print Weird
@@ -35,9 +36,10 @@ Not Weird
 Explanation 1
 
 n = 24
-n>20 and n is even, so it is not weird. */
+n>20 and n is even, so it is not weird. 
+'''
 
-// Code:
+# Code:
 
 #!/bin/python3
 
