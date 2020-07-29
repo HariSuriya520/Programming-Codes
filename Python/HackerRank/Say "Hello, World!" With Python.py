@@ -1,4 +1,5 @@
-/* Here is a sample line of code that can be executed in Python:
+'''
+Here is a sample line of code that can be executed in Python:
 
 print("Hello, World!")
 You can just as easily store a string as a variable and then print it to stdout:
@@ -17,9 +18,10 @@ Print Hello, World! to stdout.
 
 Sample Output 0
 
-Hello, World! */
+Hello, World!
+'''
 
-// Code:
+# Code:
 
 if __name__ == '__main__':
     print ('Hello, World!')
